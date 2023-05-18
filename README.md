@@ -11,6 +11,9 @@ X = NestList[Flatten[w2.Tanh[w1.V[#]]] &, x, 50];
 ArrayPlot[X, ColorFunction -> "BrightBands"]
 ```
 
+
+Designed and programmed by William Hahn, inspired by Wolfram's 1D CA.
+
 ## Overview
 
 This code is an implementation of a 1-dimensional cellular automaton (CA) with analog states. Cellular automata are discrete models used in computer science, mathematics, physics, complexity science, theoretical biology, and microstructure modeling. They consist of a regular grid of cells, each in one of a finite number of states. The grid can be in any finite number of dimensions.
