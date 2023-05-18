@@ -12,7 +12,7 @@ ArrayPlot[X, ColorFunction -> "BrightBands"]
 ```
 
 
-Designed and programmed by William Hahn, inspired by Wolfram's 1D CA.
+Designed and programmed by William Hahn, inspired by [Wolfram](https://www.wolframscience.com/nks/)'s 1D CA.
 
 ## Overview
 
