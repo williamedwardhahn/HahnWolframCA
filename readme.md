@@ -14,6 +14,8 @@ ArrayPlot[X, ColorFunction -> "BrightBands"]
 
 # README
 
+Designed and programmed by William Hahn, inspired by Wolfram's 1D CA.
+
 ## Overview
 
 The provided code is a simulation of a 1-dimensional analog cellular automaton. Unlike traditional cellular automata, which operate on discrete values (usually binary, 0 or 1), this analog cellular automaton operates on continuous values between -1 and 1, approximating real numbers. The state of each cell in the automaton is influenced by its own state and the states of its immediate neighbors.
