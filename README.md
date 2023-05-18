@@ -11,9 +11,6 @@ X = NestList[Flatten[w2.Tanh[w1.V[#]]] &, x, 50];
 ArrayPlot[X, ColorFunction -> "BrightBands"]
 ```
 
-
-Designed and programmed by William Hahn, inspired by [Wolfram](https://www.wolframscience.com/nks/)'s 1D CA.
-
 ## Overview
 
 This code is an implementation of a 1-dimensional cellular automaton (CA) with analog states. Cellular automata are discrete models used in computer science, mathematics, physics, complexity science, theoretical biology, and microstructure modeling. They consist of a regular grid of cells, each in one of a finite number of states. The grid can be in any finite number of dimensions.
@@ -77,3 +74,7 @@ by changing the following parameters:
 - **Color scheme**: Change the color scheme of the plot by modifying the `ColorFunction` option in `ArrayPlot`. For example, to use a black and white color scheme, you would use `ArrayPlot[X, ColorFunction -> "GrayTones"]`.
 
 Remember to ensure that the dimensions of `x`, `w1`, and `w2` are consistent. The length of `x` should match the number of rows in `w1` and the number of columns in `w2`. The number of columns in `w1` should match the number of rotations in the `V` function.
+
+
+# References
+* [Wolfram](https://www.wolframscience.com/nks/)
