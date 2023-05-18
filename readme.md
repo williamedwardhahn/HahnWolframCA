@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/williamedwardhahn/HahnWolframCA/main/CA1.png" style="image-rendering: pixelated; width: 600px;">
+<img src="https://raw.githubusercontent.com/williamedwardhahn/HahnWolframCA/main/CA1.png" style="image-rendering: pixelated; image-rendering: -moz-crisp-edges; image-rendering: crisp-edges; width: 600px;">
 
 
 ```wolfram
