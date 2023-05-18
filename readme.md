@@ -1,3 +1,5 @@
+<img style="image-rendering: pixelated" src="https://raw.githubusercontent.com/williamedwardhahn/HahnWolframCA/main/CA1.png">
+
 
 ```wolfram
 V[x_List] := Table[RotateLeft[x, i], {i, {-1, 0, 1}}]
