@@ -77,4 +77,4 @@ Remember to ensure that the dimensions of `x`, `w1`, and `w2` are consistent. Th
 
 
 # References
-* [Wolfram](https://www.wolframscience.com/nks/)
+* Special Thanks to Dr. Stephen [Wolfram](https://www.wolframscience.com/nks/)
