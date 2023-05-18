@@ -1,5 +1,7 @@
 # README
 
+<img src="https://raw.githubusercontent.com/williamedwardhahn/HahnWolframCA/main/CA1.png" style=" width: 600px;">
+
 ```wolfram
 V[x_List] := Table[RotateLeft[x, i], {i, {-1, 0, 1}}]
 w1 = RandomReal[{-1, 1}, {100, 3}];
