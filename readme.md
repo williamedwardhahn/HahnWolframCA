@@ -1,4 +1,4 @@
-<img style="image-rendering: pixelated" src="https://raw.githubusercontent.com/williamedwardhahn/HahnWolframCA/main/CA1.png">
+<img style="image-rendering: pixelated" src="https://raw.githubusercontent.com/williamedwardhahn/HahnWolframCA/main/CA1.png" width = 200>
 
 
 ```wolfram
